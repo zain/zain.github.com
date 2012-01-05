@@ -1,0 +1,8 @@
+permalink: /:categories/:title.html
+auto: true
+pygments: true
+
+var:
+  archive_path: /archive.html
+  categories_path : /categories.html
+  tags_path : /tags.html
