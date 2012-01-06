@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Grilled Cheese Sandwiches
-description: An exploration into the intricacies of making delicious grilled cheese sandwiches.
+title: Yet Another Dumb Post
+description: You probably don't really care about this post at all.
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras iaculis placerat vulputate. Cras libero est, vulputate eu mollis a, viverra sed lacus. Nam sapien nisl, feugiat at sollicitudin non, vestibulum quis purus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. 

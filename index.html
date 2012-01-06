@@ -1,0 +1,62 @@
+---
+layout: default
+---
+
+<p>Hi there! I'm a 24-year-old coder and entrepreneur living in San Francisco, CA. You can get in touch with me by emailing <a href="mailto:zain@inzain.net">zain@inzain.net</a> or tweeting <a href="http://twitter.com/zainy">@zainy</a>.</p>
+<h1 class="front-page-title">Posts</h1>
+<p>
+{% for post in site.posts  %}
+    <h2 class="front-page-post-title">
+        <a href="{{ post.id }}/">{{ post.title }}</a> on {{ post.date | date: "%B %e, %Y" }}.
+    </h2>
+  <div class="front-page-post-description">{{ post.description }}</div>
+{% endfor %}
+</p>
+
+<h1 class="front-page-title">Talks</h1>
+<p>
+    - Tiling GeoData with TileStache 
+    @ <a href="http://whereconf.com/where2012/public/schedule/detail/22867">Where 2.0</a>.
+    <br>
+    
+    - Making Maps with Python
+    @ <a href="https://us.pycon.org/2012/schedule/presentation/474/">PyCon 2012</a>.
+    <br>
+    
+    - Making Interactive Maps for the Web 
+    [<a href="https://github.com/zain/djangocon2011/raw/master/talk-slides.pdf">slides</a>, 
+    <a href="http://blip.tv/djangocon/making-interactive-maps-for-the-web-5573888">video</a>] 
+    @ <a href="http://djangocon.us/schedule/presentations/45/">DjangoCon 2011</a>.
+    <br>
+    
+    - GeoDjango 
+    [<a href="https://github.com/zain/geomeetup-talk/raw/master/geomeetup%20talk%20slides.pdf">slides</a>] 
+    @ <a href="http://www.meetup.com/geomeetup/events/36309852/">GeoMeetup SF</a>.
+    <br>
+    
+    - Map Tiling Explorations 
+    @ <a href="http://nogis.eventbrite.com/">NoGIS</a>.
+    <br>
+    
+    - Deploying Without Downtime 
+    @ <a href="http://www.meetup.com/The-San-Francisco-Django-Meetup-Group/events/15393684/">Django SF</a>.
+    <br>
+    
+    - Django Core Devs Technical Design Panel 
+    [<a href="http://blip.tv/djangocon/technical-design-panel-4131811">video</a>] 
+    @ DjangoCon 2010.
+    <br>
+    
+    - GSoC Panel 
+    [<a href="http://blip.tv/djangocon/google-summer-of-code-overview-panel-3061181">video</a>] 
+    @ DjangoCon 2009.
+    <br>
+    
+    - Admin UI Overview 
+    [<a href="http://blip.tv/djangocon/google-summer-of-code-overview-panel-3061181">video</a>] 
+    @ DjangoCon 2009.
+    <br>
+    
+    - The Poor Man's Continuous Integration 
+    @ PyCon 2009.
+</p>
