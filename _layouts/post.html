@@ -2,6 +2,7 @@
 layout: default
 ---
 
-<h2 class="title">{{ page.title }}</h2>
+<h1 class="post-header">{{ page.title }}</h1>
+<small>Published on {{ page.date|date:"%B %d, %Y" }}.</small>
 
 {{ content }}

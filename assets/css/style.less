@@ -1,0 +1,83 @@
+@import "frameless";
+
+@headercolor: #000;
+@headerbordercolor: #888;
+@posttitlecolor: #000;
+@textcolor: #000;
+@bgcolor: #FFF;
+@linkcolor: #F02311;
+
+html {
+    background-color: @bgcolor;
+}
+
+body {
+    .width(10);
+    font-family: 'Merriweather', serif;
+    font-size: 100%;
+    color: @textcolor;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.page-header {
+    font-family: 'Crete Round', serif;
+    font-size: 210%;
+    
+    border-bottom: 1px solid @headerbordercolor;
+    border-top: 1px solid @headerbordercolor;
+    margin-bottom: 1.5em;
+    margin-top: 1em;
+}
+
+footer {
+    border-top: 1px solid @headerbordercolor;
+    margin-top: 4em;
+    padding-top: 1em;
+    font-size: 70%;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+#page-title {
+    .width(4);
+    color: @headercolor;
+}
+
+#icons {
+    .width(6);
+    text-align: right;
+}
+
+#icons img {
+    vertical-align: middle;
+    padding-bottom: 7px;
+    margin-left: 0.5em;
+}
+
+.post-header {
+    font-family: 'Crete Round', serif;
+    font-size: 175%;
+    color: @posttitlecolor;
+}
+
+h2 {
+    font-size: 125%;
+    margin-top: 1.5em;
+}
+
+small {
+    color: @posttitlecolor;
+}
+
+p {
+    margin-top: 1em;
+}
+
+a {
+    color: @linkcolor;
+    
+}

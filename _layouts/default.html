@@ -1,39 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-        <meta name="description" content="{{ page.descripthttp://localhost:4000/ion }}">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="{{ page.description }}">
         <meta name="author" content="Zain Memon">
         
         <title>{% if page.title %}"{{ page.title }}" by {% endif %}Zain Memon</title>
         
-        <link rel="stylesheet/less" href="/assets/bootstrap/lib/bootstrap.less">
+        <link href='http://fonts.googleapis.com/css?family=Merriweather:400,700' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Crete+Round' rel='stylesheet' type='text/css'>
+        
+        <link rel="stylesheet/less" href="/assets/css/style.less">
         <script type="text/javascript" src="/assets/javascripts/less-1.1.5.min.js"></script>
         
-        <script type="text/javascript" src="http://use.typekit.com/nmt7lqi.js"></script>
-        <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-        
-        <style>
-        .typekit-badge {
-            display: none !important;
-        }
-        </style>
+        <!--[if lt IE 9]>
+            <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
     </head>
-    <body>
+    <body lang="en">
         <div class="container">
-            <header class="page-header">
-                <h1>
-                    Zain Memon<br />
-                    <small>A nerd in San Francisco</small>
-                </h1>
-            </header>
+            <table class="page-header">
+                <tr>
+                    <td id="page-title">Zain Memon</td>
+                    <td id="icons">
+                        <a href="mailto:zain@inzain.net"><img src="/assets/images/handycons/email.png"></a>
+                        <a href="http://twitter.com/zainy"><img src="/assets/images/handycons/twitter.png"></a>
+                        <a href="http://facebook.com/zainy"><img src="/assets/images/handycons/facebook.png"></a>
+                        <a href="http://linkedin.com/in/zainm"><img src="/assets/images/handycons/linkedin.png"></a>
+                        <img src="/assets/images/handycons/rss.png">
+                    </td>
+                </tr>
+            </table>
             
             {{ content }}
             
             <footer>
-                This site is powered by Jekyll, styled with LESS, set in blah from TypeKit, and licensed under a 
-                <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative 
-                Commons Attribution 3.0 Unported License</a>.
+                This content is made available under a 
+                <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">
+                Creative Commons Attribution 3.0 Unported License</a>.<br><br>
             </footer>
         </div>
     </body>
