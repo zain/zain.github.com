@@ -5,8 +5,8 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Zain's Posts</title>
- <link href="http://zain.github.com/feed/index.xml" rel="self"/>
- <link href="http://zain.github.com/"/>
+ <link href="http://inzain.net/feed/index.xml" rel="self"/>
+ <link href="http://inzain.net/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://inzain.net/</id>
  <author>
