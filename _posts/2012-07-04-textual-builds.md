@@ -11,7 +11,7 @@ You may be familiar with the excellent IRC client for Mac OS X known as <a href=
 Luckily, Textual is BSD-licensed, so there's nothing stopping someone from creating and distributing their own builds. So without further ado, I present a non-sandboxed build of Textual that doesn't suck.
 
 <br>
-<em><a href="/assets/files/textual/Textual-2.1.1.zip">Textual 2.1.1 - zip file (2.5mb)</a></em>
+<b><a href="/assets/files/textual/Textual-2.1.1.zip">Textual 2.1.1 - zip file (2.5mb)</a></b>
 
 
 If you like this IRC client, <a href="http://itunes.apple.com/us/app/textual-irc-client/id403012667?mt=12">buy it from the app store</a> to support the author.
