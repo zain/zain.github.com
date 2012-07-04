@@ -15,4 +15,4 @@ Luckily, Textual is BSD-licensed, so there's nothing stopping someone from creat
 If you like this IRC client, <a href="http://itunes.apple.com/us/app/textual-irc-client/id403012667?mt=12">buy it from the app store</a> to support the author.
 
 <br>
-<img src="/assets/images/textual_screenshot.png" width="700" border="1px solid black">
+<img src="/assets/images/textual_screenshot.png" width="700" border="2px solid black">
