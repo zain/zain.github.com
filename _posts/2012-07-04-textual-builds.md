@@ -18,3 +18,4 @@ Also, <a href="http://itunes.apple.com/us/app/textual-irc-client/id403012667?mt=
 
 <br>
 <img src="/assets/images/textual_screenshot.png" width="700">
+
