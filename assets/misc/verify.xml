@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Dial>
-        <Number>310-422-9675</Number>
-    </Dial>
+    <Play>http://www.dialabc.com/i/cache/dtmfgen/wavpcm8.300/87.wav</Play>
 </Response>
