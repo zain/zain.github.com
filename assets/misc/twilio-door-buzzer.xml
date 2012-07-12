@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say>Come on in</Say>
+    <Play>http://idisk.s3.amazonaws.com/tmp/9.wav</Play>
+</Response>
