@@ -10,6 +10,7 @@ Luckily, Textual is BSD-licensed, so there's nothing stopping someone from creat
 
 <br>
 <strike><b><a href="/assets/files/textual/Textual-2.1.1.zip">Textual 2.1.1 - zip file</a> (2.5mb, 64-bit only)</b></strike>
+
 <b><a href="/assets/files/textual/Textual-2.1.1.zip">Textual 2.1.1+ (beta) - zip file</a> (2.8mb, 64-bit only)</b> (courtesy of <a href="http://twitter.com/keithah/">@keithah</a>)
 
 
