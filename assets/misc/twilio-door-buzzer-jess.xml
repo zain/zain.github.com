@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Response>
-    <Play>http://idisk.s3.amazonaws.com/tmp/9.wav</Play>
-    <Sms from="+13233668731" to="+13104229675">Ding Dong! (Zain snickers quietly)</Sms>
-</Response>
