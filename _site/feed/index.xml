@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Zain's Posts</title>
+ <link href="http://inzain.net/feed/index.xml" rel="self"/>
+ <link href="http://inzain.net/"/>
+ <updated>2013-10-13T01:30:11-07:00</updated>
+ <id>http://inzain.net/</id>
+ <author>
+   <name>Zain Memon</name>
+   <email>zain@inzain.net</email>
+ </author>
+
+ 
+ <entry>
+   <title>Textual builds</title>
+   <link href="http://inzain.net/textual-builds/"/>
+   <updated>2012-07-04T00:00:00-07:00</updated>
+   <id>http://inzain.net/textual-builds/</id>
+   <content type="html">
+&lt;p&gt;You may be familiar with the excellent IRC client for Mac OS X known as &lt;a href='http://www.codeux.com/textual/'&gt;Textual&lt;/a&gt;. Unfortunately, it’s only available in the app store, and the app store version is sandboxed – so your logs are in a black hole somewhere and it’s a pain to install custom styles.&lt;/p&gt;
+
+&lt;p&gt;Luckily, Textual is BSD-licensed, so there’s nothing stopping someone from creating and distributing their own builds. So without further ado, I present a non-sandboxed build of Textual that doesn’t suck.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;a href='/assets/files/textual/Textual-d99a6ba.zip'&gt;Textual - zip file&lt;/a&gt; (2.8mb, 64-bit only) (courtesy of &lt;a href='http://twitter.com/keithah/'&gt;@keithah&lt;/a&gt;)&lt;/b&gt; (updated 9/19/2012)&lt;/p&gt;
+
+&lt;p&gt;Also, &lt;a href='http://itunes.apple.com/us/app/textual-irc-client/id403012667?mt=12'&gt;buy this from the app store&lt;/a&gt; to support the author.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src='/assets/images/textual_screenshot.png' width='700' /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>My Liquor and Deli</title>
+   <link href="http://inzain.net/zains-liquors/"/>
+   <updated>2012-02-10T00:00:00-08:00</updated>
+   <id>http://inzain.net/zains-liquors/</id>
+   <content type="html">
+&lt;p&gt;Once every couple of months, I get an email or text from a new friend or acquaintance who is walking by &lt;a href='http://www.yelp.com/biz/zains-liquor-and-deli-san-francisco'&gt;Zain’s Liquor and Deli Store&lt;/a&gt;. It’s usually accompanied by a picture of their ridiculous sidewalk sign — a bottle of champagne with naked baby angels flying around it and my name on the label.&lt;/p&gt;
+
+&lt;p&gt;I visited this store-of-my-name only once, when I worked around the corner. As the middle eastern guy was ringing up my purchase, I asked him if I could have a discount on account of my name.&lt;/p&gt;
+
+&lt;p&gt;First he didn’t believe me until I showed him my driver’s license. Once I proved it, he became really warm — even going so far as to handing me a free bottle opener with my name on it. Then, as I was grabbing my bag to leave, he asked, “Are you from Palestine?”&lt;/p&gt;
+
+&lt;p&gt;I responded, “No, I’m actually from India.” His face dropped. He took back the bottle opener and walked away without another word. Never did go back there again to figure out why they prefer Palestinian Zains.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>

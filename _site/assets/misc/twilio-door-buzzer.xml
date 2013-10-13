@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Play>http://inzain.net/assets/misc/1PP9.wav</Play>
+    <Sms from="+19177465377" to="+14083911392">A visitor has arrived.</Sms>
+</Response>
